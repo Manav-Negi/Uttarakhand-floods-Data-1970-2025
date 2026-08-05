@@ -1,9 +1,8 @@
 Overview:
-A curated dataset documenting 252 extreme weather and flood events across Uttarakhand, India, spanning over five decades (1970–2025). Built for climate research, geospatial mapping, and risk modeling.
-
+A curated dataset documenting 252 extreme weather and flood events across Uttarakhand, India, spanning over five decades (1970–2025).
 Motivation & Data Provenance:
 The Catalyst: 2025 Dharali Cloudburst.
-This dataset was directly inspired by the devastating flash floods on August 5, 2025, in Dharali (Uttarkashi). It was compiled to bridge the gap between historical academic records and modern real-time climate tracking.
+This dataset was directly inspired by the devastating flash floods on August 5, 2025, in Dharali (Uttarkashi).
 
 Curation Breakdown:
 The 252 rows in Uttarakhand_floods_1970_2025.xlsx consist of:
